@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\PlayerCrosshair.h(28,61): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\PlayerCrosshair.h(28,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\Enemy.h(24,55): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\Enemy.h(32,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\Enemy.h(32,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Tparto\Desktop\MAVI - U4\MAVI - U4\GameController.h(50,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  MAVI - U4.vcxproj -> C:\Users\Tparto\Desktop\MAVI - U4\x64\Debug\MAVI - U4.exe
